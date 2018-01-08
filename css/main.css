@@ -1,0 +1,6 @@
+	
+.choice-btn[disabled], .choice-btn[disabled]:hover {
+	background: transparent;
+	border: 1px solid #bbb;
+	color: #555;
+}
